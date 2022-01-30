@@ -28,4 +28,20 @@ I am upcoming Java Developer.<br>
 
 <hr>
 :hammer_and_wrench: <b>Languages and Tools :</b><br>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="PYTHON" alt="PYTHON" width="80" height="40"/>&nbsp;
+</div>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun-kajarekar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats"/>
+
+<hr>
+<h3>🌟 <b>Project :</h3>
+  - <b><a href = "https://github.com/varun-kajarekar/NoteTaker"> 1 NoteTaker<a></b></br> 
+  ---> A Simple Java Web Application Using Servlet, JSP and HIBERNATE.</br> 
+  ---> NoteTaker uses password protection to keep your notes safe.</br>
+  ---><b><a href = "http://3.108.198.35:8080/Notetaker_AWS/"> Deploy Here<a><b>
