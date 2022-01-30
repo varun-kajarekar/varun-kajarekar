@@ -1,16 +1,21 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="www.linkedin.com/in/varun-kajrekar-6618b71bb">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="150px" heigth = "50px"/>
+  </a>
+  <a href="https://www.codechef.com/users/varun7890">
+    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the- badge&logo=CodeChef&logoColor=white" alt="Codechef Badge" width="150px" heigth = "50px"/>
   </a>
 </div>
- 
+  <br>
+    <img src="https://komarev.com/ghpvc/?username=varun-kajarekar&style=flat-square&color=blue" alt=""/>
+
 <h1>
-  hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
  </div>
 Here are some ideas to get you started:
 
