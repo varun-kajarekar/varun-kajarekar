@@ -44,4 +44,4 @@ I am upcoming Java Developer.<br>
   - <b><a href = "https://github.com/varun-kajarekar/NoteTaker"> 1 NoteTaker<a></b></br> 
   ---> A Simple Java Web Application Using Servlet, JSP and HIBERNATE.</br> 
   ---> NoteTaker uses password protection to keep your notes safe.</br>
-  ---><b><a href = "http://3.108.198.35:8080/Notetaker_AWS/"> Deploy Here<a><b>
+  ---><b><a href = "http://3.108.198.35:8080/Notetaker_AWS/"> Deployed Here<a><b>
