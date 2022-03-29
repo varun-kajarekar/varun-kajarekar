@@ -21,7 +21,7 @@
 </div>
 <br><hr>
 :man_technologist: <b>About Me :</b><br>
-I am upcoming Java Developer.<br>
+I am Java Developer.<br>
 - 🌱 I’m currently learning Hibernate and Spring Framework<br>
 - :zap: In my free time, I solve coding problems and read tech articles.<br>
 -->
